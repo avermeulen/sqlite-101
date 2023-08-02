@@ -1,0 +1,11 @@
+Afrikaans   Hallo!
+English     Hello!  
+isiNdebele  Lotjhani!
+isiXhosa    Molo!
+isiZulu     Sawubona!
+Sepedi      Dumela!
+Setswana    Dumela! 
+Sesotho     Dumela!
+Xitsonga    Avuxeni!
+siSwati     Sawubona!
+Tshivenda   Ndaa!
